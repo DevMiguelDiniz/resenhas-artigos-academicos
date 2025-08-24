@@ -11,6 +11,10 @@ Este repositório contém resenhas de artigos acadêmicos relevantes para desenv
 - Análise dos padrões arquiteturais comumente ignorados no desenvolvimento de software
 - **Tags:** `arquitetura` `padrões` `legacy-code` `technical-debt`
 
+- **[Microservices](resenhas/microservices/microservices.pdf)** - *James Lewis, Martin Fowler (2014)*
+- Introdução e princípios dos microserviços como uma abordagem arquitetural
+- **Tags:** `microservices` `arquitetura` `scalabilidade` `devops`
+
 <!-- 
 #### Metodologias
 - **[Título do Artigo](./resenhas/nome-arquivo.pdf)** - *Autor (Ano)*
