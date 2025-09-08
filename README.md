@@ -15,6 +15,10 @@ Este repositório contém resenhas de artigos acadêmicos relevantes para desenv
 - Introdução e princípios dos microserviços como uma abordagem arquitetural
 - **Tags:** `microservices` `arquitetura` `scalabilidade` `devops`
 
+- **[On the Criteria To Be Used in Decomposing Systems into Modules](resenhas/modules/modules.pdf)** - *David L. Parnas (1972)*
+- Discussão sobre critérios para decomposição de sistemas em módulos, introduzindo o conceito de "information hiding"
+- **Tags:** `modularidade` `information-hiding` `design-principles` `software-engineering`
+
 <!-- 
 #### Metodologias
 - **[Título do Artigo](./resenhas/nome-arquivo.pdf)** - *Autor (Ano)*
