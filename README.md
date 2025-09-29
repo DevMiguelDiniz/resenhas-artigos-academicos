@@ -19,6 +19,13 @@ Este repositório contém resenhas de artigos acadêmicos relevantes para desenv
 - Discussão sobre critérios para decomposição de sistemas em módulos, introduzindo o conceito de "information hiding"
 - **Tags:** `modularidade` `information-hiding` `design-principles` `software-engineering`
 
+- **[DOMAIN-DRIVEN DESIGN REFERENCE](resenhas/ddd-reference/DDD.pdf)** - *EVANS, Eric*
+- O Design Estratégico em DDD lida com o projeto e a organização de grandes sistemas,
+focando em como dividir o sistema em partes coerentes e como essas partes se relacionam, com
+o objetivo de manter a clareza e o foco no Core Domain (Domínio Central).
+- **Tags:** `modularidade` `information-hiding` `design-principles` `software-engineering`
+
+
 <!-- 
 #### Metodologias
 - **[Título do Artigo](./resenhas/nome-arquivo.pdf)** - *Autor (Ano)*
@@ -30,3 +37,4 @@ Este repositório contém resenhas de artigos acadêmicos relevantes para desenv
  - Breve descrição
  - **Tags:** `tag1` `tag2` `tag3`
 -->
+
