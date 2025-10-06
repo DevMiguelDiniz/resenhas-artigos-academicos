@@ -26,6 +26,12 @@ o objetivo de manter a clareza e o foco no Core Domain (Domínio Central).
 - **Tags:** `modularidade` `information-hiding` `design-principles` `software-engineering`
 
 
+#### Testing e Qualidade
+- **[“MANAGING TECHNICAL DEBT](resenhas/managing_technical_debt/managing_technical_debt.pdf)** - *McCONNELL, Steve*
+ - Breve descrição
+ - **Tags:** `technical-debt` `refactoring` `clean-code`
+
+
 <!-- 
 #### Metodologias
 - **[Título do Artigo](./resenhas/nome-arquivo.pdf)** - *Autor (Ano)*
